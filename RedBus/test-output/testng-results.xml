@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T14:23:32 IST" name="Default suite" finished-at="2023-07-20T14:23:36 IST" duration-ms="3925">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T14:23:32 IST" name="Default test" finished-at="2023-07-20T14:23:36 IST" duration-ms="3925">
+      <class name="in.rebus.testsripts.BookingTickets">
+        <test-method is-config="true" signature="LaunchApplication()[pri:0, instance:in.rebus.testsripts.BookingTickets@7526515b]" started-at="2023-07-20T14:23:32 IST" name="LaunchApplication" finished-at="2023-07-20T14:23:35 IST" duration-ms="3352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication -->
+        <test-method signature="SearchPlace()[pri:0, instance:in.rebus.testsripts.BookingTickets@7526515b]" started-at="2023-07-20T14:23:35 IST" name="SearchPlace" finished-at="2023-07-20T14:23:35 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchPlace -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:in.rebus.testsripts.BookingTickets@7526515b]" started-at="2023-07-20T14:23:35 IST" name="CloseBrowser" finished-at="2023-07-20T14:23:36 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- in.rebus.testsripts.BookingTickets -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
